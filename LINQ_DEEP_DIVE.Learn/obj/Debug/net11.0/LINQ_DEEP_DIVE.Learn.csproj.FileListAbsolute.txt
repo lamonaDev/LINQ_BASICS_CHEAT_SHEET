@@ -1,0 +1,15 @@
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\bin\Debug\net11.0\LINQ_DEEP_DIVE.Learn.exe
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\bin\Debug\net11.0\LINQ_DEEP_DIVE.Learn.deps.json
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\bin\Debug\net11.0\LINQ_DEEP_DIVE.Learn.runtimeconfig.json
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\bin\Debug\net11.0\LINQ_DEEP_DIVE.Learn.dll
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\bin\Debug\net11.0\LINQ_DEEP_DIVE.Learn.pdb
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.AssemblyInfoInputs.cache
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.AssemblyInfo.cs
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.csproj.CoreCompileInputs.cache
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.sourcelink.json
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.dll
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\refint\LINQ_DEEP_DIVE.Learn.dll
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.pdb
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\LINQ_DEEP_DIVE.Learn.genruntimeconfig.cache
+E:\ASP.NET\LINQ_DEEP_DIVE\LINQ_DEEP_DIVE.Learn\obj\Debug\net11.0\ref\LINQ_DEEP_DIVE.Learn.dll
